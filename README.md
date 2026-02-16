@@ -1,4 +1,9 @@
 # A/B Testing & Causal Impact — Loan Application Flow Experiment
+
+## Live Dashboard
+
+🔗 Streamlit App: https://ab-testing-causal-impact-mrdd3ocmui6m7uhxh3tngz.streamlit.app/
+
 Overview
 
 This project analyzes a randomized A/B experiment evaluating a simplified loan application flow (5 steps → 3 steps).
